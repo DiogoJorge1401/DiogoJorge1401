@@ -12,7 +12,7 @@
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png"></code>
 <div align="center">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Suegoid&show_icons=true&theme=dark"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suegoid&theme=dark"/><br><br><br><br>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suegoid&theme=dark"/><br><br><br><br><br><br><br><br><br><br><br><br>
 </div>
 
 
