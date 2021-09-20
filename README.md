@@ -2,7 +2,7 @@
 
 <div align="center">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Suegoid&show_icons=true&theme=dark"/><br/><br/>
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suegoid&theme=tokyonight"/><br/><br/>
 </div>
 <p align="justify">Oi 👋, me chamo Diogo, conhecido como sue, estudando desenvolvimento web, seguindo para back-end.</p>
 
