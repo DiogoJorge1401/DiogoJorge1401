@@ -13,7 +13,7 @@
 <div align="center">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Suegoid&show_icons=true&theme=dark"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suegoid&theme=dark"/>
-</div><br><br><br><br><br><br><br><br><br><br><br><br>
+</div><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ### Redes Sociais
 - [Discord](https://discord.gg/KZmDrSDB5U)
