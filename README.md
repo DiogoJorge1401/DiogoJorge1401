@@ -1,8 +1,8 @@
 ### Olá a todos, Eu sou o [Sue](https://github.com/suegoid) 👋
 
 <div align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Suegoid&show_icons=true&theme=dark"/><br/><br/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suegoid&theme=dark"/><br/><br/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Suegoid&show_icons=true&theme=dark"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suegoid&theme=dark"/>
 </div>
 <p align="justify">Oi 👋, me chamo Diogo, conhecido como sue, estudando desenvolvimento web, seguindo para back-end.</p>
 
