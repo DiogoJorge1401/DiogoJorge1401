@@ -1,4 +1,4 @@
-### Olá a todos, Eu sou o [Sue](https://github.com/suegoid) 👋
+### Olá a todos, me chamo Diogo(https://github.com/suegoid) 👋
 
 <p align="justify">Oi 👋, me chamo Diogo, estudo desenvolvimento web e amo programar, busco freelas por experiência.</p>
 
