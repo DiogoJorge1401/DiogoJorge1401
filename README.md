@@ -1,6 +1,6 @@
 ### Olá a todos, Eu sou o [Sue](https://github.com/suegoid) 👋
 
-<p align="justify">Oi 👋, me chamo Diogo, conhecido como sue, estudando desenvolvimento web, seguindo para back-end.</p>
+<p align="justify">Oi 👋, me chamo Diogo, estudo desenvolvimento web e amo programar, busco freelas por experiência.</p>
 
 **Técnologias que tenho experiência:**
 <div>
