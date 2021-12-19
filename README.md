@@ -1,4 +1,4 @@
-### Olá a todos, me chamo [Diogo](https://github.com/suegoid) 👋
+### Olá a todos, me chamo [Diogo](https://github.com/DiogoJorge1401) 👋
 
 <p align="justify">Oi 👋, me chamo Diogo, estudo desenvolvimento web e amo programar, busco freelas por experiência.</p>
 
@@ -32,9 +32,9 @@
 <br>
 <div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suegoid&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiogoJorge1401&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suegoid&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoJorge1401&layout=compact&theme=radical)
 
 </div>
 
