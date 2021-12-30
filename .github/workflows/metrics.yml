@@ -1,29 +1,29 @@
-# Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
 name: Metrics
 on:
-  # Schedule updates (each hour)
-  schedule: [{cron: "0 * * * *"}]
-  # Lines below let you run workflow manually and on each commit
+  schedule: [{ cron: '30 0,12 * * *' }]
   workflow_dispatch:
-  push: {branches: ["master", "main"]}
+  push: { branches: ['main'] }
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
-
-          # Options
           user: DiogoJorge1401
           template: classic
-          base: ""
+          config_gemoji: yes
           config_timezone: America/Sao_Paulo
+          retries: 3
+          retries_delay: 300
+          use_prebuilt_image: yes
+          base: header
+          repositories_forks: no
+          repositories_affiliations: owner, collaborator
           plugin_anilist: yes
-          plugin_anilist_limit: 2
-          plugin_anilist_limit_characters: 22
           plugin_anilist_medias: anime, manga
-          plugin_anilist_sections: favorites
+          plugin_anilist_sections: characters, watching, reading, favorites
+          plugin_anilist_limit: 2
           plugin_anilist_shuffle: yes
-          plugin_anilist_user: DiogoJorge1401
+          plugin_anilist_user: .user.login
+          plugin_anilist_limit_characters: 22
