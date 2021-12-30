@@ -1,8 +1,6 @@
 <h2 align="center"> <img width="40px" src="https://images-ext-1.discordapp.net/external/ntRIbzE2m4mn1v0-OVh7RIp_manBrZ8u9dsbTrl9UGI/https/media.discordapp.net/attachments/868062262802391120/919382180633903215/Necro-ts-stance.gif"/> Oi,  me chamo Diogo, Estudo desenvolvimento web e amo programar, busco freelas por experiência. <img width="40px" src="https://images-ext-1.discordapp.net/external/SdgKInddOXOrp8hzdFETS4ZZgDQvkwtRZlN7VqxYGgg/https/media.discordapp.net/attachments/868064387867496448/912500344787988500/twelve-ts-stance.gif"/>
 </h2>
 <img  src="./video.gif" />
-
-
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=diogojorge1401&theme=radical" alt="diogojorge1401" />
 </p>
