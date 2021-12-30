@@ -74,10 +74,10 @@
         </td>
     </tr>
 </table>
-<img src="https://github.com/DiogoJorge1401/DiogoJorge1401/blob/output/github-contribution-grid-snake.svg" width="100%"/>
 <p align="center">
     <img src="https://metrics.lecoq.io/DiogoJorge1401?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=5&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=15&config.timezone=America%2FSao_Paulo" width="60%" />
 </p>
+<img src="https://github.com/DiogoJorge1401/DiogoJorge1401/blob/output/github-contribution-grid-snake.svg" width="100%"/>
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=diogojorge1401&label=Profile%20views&color=0e75b6&style=flat" alt="diogojorge1401" />
 </p>
