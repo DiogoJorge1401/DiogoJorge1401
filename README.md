@@ -1,5 +1,17 @@
 <h2 align="center"> <img width="40px" src="https://images-ext-1.discordapp.net/external/ntRIbzE2m4mn1v0-OVh7RIp_manBrZ8u9dsbTrl9UGI/https/media.discordapp.net/attachments/868062262802391120/919382180633903215/Necro-ts-stance.gif"/> Oi,  me chamo Diogo, Estudo desenvolvimento web e amo programar, busco freelas por experiência. <img width="40px" src="https://images-ext-1.discordapp.net/external/SdgKInddOXOrp8hzdFETS4ZZgDQvkwtRZlN7VqxYGgg/https/media.discordapp.net/attachments/868064387867496448/912500344787988500/twelve-ts-stance.gif"/>
 </h2>
+<details open="">
+  <summary>
+    <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-device-camera-video">
+    <path fill-rule="evenodd" d="..."></path>
+</svg>
+    <span aria-label="Video description myvideo.mp4" class="">myvideo.mp4</span>
+  </summary>
+   <video src="https://raw.githubusercontent.com/DiogoJorge1401/DiogoJorge1401/main/video.mp4" data-canonical-src="https://raw.githubusercontent.com/DiogoJorge1401/DiogoJorge1401/main/video.mp4" width="440px" loop="true" autoplay="autoplay" controls muted>
+  </video>
+</details>
+
+
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=diogojorge1401&theme=radical" alt="diogojorge1401" />
 </p>
