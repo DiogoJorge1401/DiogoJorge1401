@@ -3,7 +3,7 @@
 <p align="center">
   <img  src="./video.gif" />
 </p>
->>>>>>> 5b2ed7220b753247cf5dae2803c762e4e5dd851d
+
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=diogojorge1401&theme=radical" alt="diogojorge1401" />
 </p>
