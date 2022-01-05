@@ -72,6 +72,12 @@
     <a href="https://discord.gg/KZmDrSDB5U" target="blank">
         <img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="https://discord.gg/KZmDrSDB5U" />
     </a>
+  <a href="https://anilist.co/user/DiogoJorge1401/">
+      <img align="center" src="https://img.shields.io/badge/Anilist-2E51A2?style=for-the-badge&logo=anilist&logoColor=white"/>
+  </a>
+   <a href="mailto:diogojorge1401@gmail.com" target="blank">
+      <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
 </div>
 
 <div align="center" width="100%">
