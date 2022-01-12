@@ -85,7 +85,8 @@
     <img src="https://github.com/DiogoJorge1401/DiogoJorge1401/blob/output/github-contribution-grid-snake.svg" alt="snake - Diogo Horvatti" />
   </a>
 </div>
-
+<!--START_SECTION:waka-->
+ <!--END_SECTION:waka--> 
 <div align="center">
     <h3 align="center">𝕰𝖘𝖈𝖗𝖊𝖛𝖆 𝖆𝖑𝖌𝖔 𝖇𝖔𝖒 𝖓𝖔 𝖒𝖊𝖚 𝖑𝖎𝖛𝖗𝖔 𝖉𝖊 𝖛𝖎𝖘𝖎𝖙𝖆𝖘:</h3>
     <div align="center">
