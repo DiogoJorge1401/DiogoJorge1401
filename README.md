@@ -85,7 +85,9 @@
     <img src="https://github.com/DiogoJorge1401/DiogoJorge1401/blob/output/github-contribution-grid-snake.svg" alt="snake - Diogo Horvatti" />
   </a>
 </div>
+
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-36%20hrs%2050%20mins-blue)
 
 **I'm an Early 🐤** 
