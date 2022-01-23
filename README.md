@@ -62,7 +62,7 @@
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="">
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="">
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="">
-    <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" alt="">
+    <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="">
 </div>
 <h3 align="center">ᴄ͟ᴏ͟ɴ͟ɴ͟ᴇ͟ᴄ͟ᴛ͟ ͟ᴡ͟ɪ͟ᴛ͟ʜ͟ ͟ᴍ͟ᴇ͟:͟</h3>
 <div align="center">
