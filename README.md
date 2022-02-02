@@ -87,6 +87,8 @@
 </div>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-140%20hrs%2028%20mins-blue)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -150,7 +152,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/02/2022 10:17:51 UTC
+ Last Updated on 02/02/2022 00:21:15 UTC
 <!--END_SECTION:waka--> 
 <div align="center">
     <h3 align="center">𝕰𝖘𝖈𝖗𝖊𝖛𝖆 𝖆𝖑𝖌𝖔 𝖇𝖔𝖒 𝖓𝖔 𝖒𝖊𝖚 𝖑𝖎𝖛𝖗𝖔 𝖉𝖊 𝖛𝖎𝖘𝖎𝖙𝖆𝖘:</h3>
