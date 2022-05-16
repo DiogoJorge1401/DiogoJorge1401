@@ -25,11 +25,6 @@
             <img src="https://github-readme-streak-stats.herokuapp.com?user=DiogoJorge1401&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
         </td>
     </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://metrics.lecoq.io/DiogoJorge1401?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=5&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=15&config.timezone=America%2FSao_Paulo" width="60%" height="125px" />
-      </td>
-    </tr>
   </table>
 
 <h3 align="center">ʟ͟ᴀ͟ɴ͟ɢ͟ᴜ͟ᴀ͟ɢ͟ᴇ͟s͟:͟</h3>
