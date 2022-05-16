@@ -25,6 +25,11 @@
             <img src="https://github-readme-streak-stats.herokuapp.com?user=DiogoJorge1401&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
         </td>
     </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <img align="center" src="./github-metrics.svg" alt="Metrics" width="500px">
+      </td>
+    </tr>
   </table>
 
 <h3 align="center">ʟ͟ᴀ͟ɴ͟ɢ͟ᴜ͟ᴀ͟ɢ͟ᴇ͟s͟:͟</h3>
@@ -35,6 +40,7 @@
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="">
 </div>
+
 <h3 align="center">ᴛ͟ᴏ͟ᴏ͟ʟ͟s͟:͟</h3>
 <div align="center">
     <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="">
