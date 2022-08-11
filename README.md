@@ -1,4 +1,4 @@
-<h2 align="center"><img width="40px" src="https://images-ext-1.discordapp.net/external/ntRIbzE2m4mn1v0-OVh7RIp_manBrZ8u9dsbTrl9UGI/https/media.discordapp.net/attachments/868062262802391120/919382180633903215/Necro-ts-stance.gif"/> ᴏɪ, ᴍᴇ ᴄʜᴀᴍᴏ ᴅɪᴏɢᴏ, ᴇsᴛᴜᴅᴏ ᴅᴇsᴇɴᴠᴏʟᴠɪᴍᴇɴᴛᴏ ᴡᴇʙ, ᴀᴘᴀɪxᴏɴᴀᴅᴏ ᴘᴏʀ ɴᴏᴅᴇᴊs ᴇ ʀᴇᴀᴄᴛᴊs. ʙᴜsᴄᴏ ғʀᴇᴇʟᴀs. <img width="40px" src="https://images-ext-1.discordapp.net/external/SdgKInddOXOrp8hzdFETS4ZZgDQvkwtRZlN7VqxYGgg/https/media.discordapp.net/attachments/868064387867496448/912500344787988500/twelve-ts-stance.gif"/>
+<h2 align="center"><img width="40px" src="https://images-ext-1.discordapp.net/external/ntRIbzE2m4mn1v0-OVh7RIp_manBrZ8u9dsbTrl9UGI/https/media.discordapp.net/attachments/868062262802391120/919382180633903215/Necro-ts-stance.gif"/> ᴏɪ, ᴍᴇ ᴄʜᴀᴍᴏ ᴅɪᴏɢᴏ, ᴇsᴛᴜᴅᴏ ᴅᴇsᴇɴᴠᴏʟᴠɪᴍᴇɴᴛᴏ ᴡᴇʙ, ᴀᴘᴀɪxᴏɴᴀᴅᴏ ᴘᴏʀ ɴᴏᴅᴇᴊs ᴇ ʀᴇᴀᴄᴛᴊs. ʙᴜsᴄᴏ ғʀᴇᴇʟᴀs.
 </h2>
   <table width="100%" border="0">
     <tr>
