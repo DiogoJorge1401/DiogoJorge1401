@@ -84,7 +84,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C027%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C023%20hrs%2038%20mins-blue)
 
 **Eu sou diurno 🐤** 
 
@@ -148,7 +148,7 @@ CSS                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 26/08/2022 01:00:59 UTC
+ Last Updated on 27/08/2022 00:55:19 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
