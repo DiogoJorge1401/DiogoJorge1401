@@ -84,7 +84,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C070%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C070%20hrs%2034%20mins-blue)
 
 **Eu sou diurno 🐤** 
 
@@ -143,7 +143,7 @@ Java                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2022 01:07:08 UTC
+ Last Updated on 07/10/2022 01:18:04 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
