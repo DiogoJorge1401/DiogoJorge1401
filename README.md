@@ -1,20 +1,16 @@
-<h2 align="center"><img width="40px" src="https://images-ext-1.discordapp.net/external/ntRIbzE2m4mn1v0-OVh7RIp_manBrZ8u9dsbTrl9UGI/https/media.discordapp.net/attachments/868062262802391120/919382180633903215/Necro-ts-stance.gif"/> ᴏɪ, ᴍᴇ ᴄʜᴀᴍᴏ ᴅɪᴏɢᴏ, ᴇsᴛᴜᴅᴏ ᴅᴇsᴇɴᴠᴏʟᴠɪᴍᴇɴᴛᴏ ᴡᴇʙ, ᴀᴘᴀɪxᴏɴᴀᴅᴏ ᴘᴏʀ ɴᴏᴅᴇᴊs ᴇ ʀᴇᴀᴄᴛᴊs. ʙᴜsᴄᴏ ғʀᴇᴇʟᴀs.
-</h2>
+<h2 align="center">ᴏɪ, ᴍᴇ ᴄʜᴀᴍᴏ ᴅɪᴏɢᴏ, ᴇsᴛᴜᴅᴏ ᴅᴇsᴇɴᴠᴏʟᴠɪᴍᴇɴᴛᴏ ᴡᴇʙ, ᴀᴘᴀɪxᴏɴᴀᴅᴏ ᴘᴏʀ ɴᴏᴅᴇᴊs ᴇ ʀᴇᴀᴄᴛᴊs. ʙᴜsᴄᴏ ғʀᴇᴇʟᴀs.</h2>
+
   <table width="100%" border="0">
     <tr>
-      <td colspan="2">
-        <div align="center">
+      <td colspan="2" align="center">
             <p>🌱 ᴀᴛᴜᴀʟᴍᴇɴᴛᴇ ᴇsᴛᴏᴜ ᴀᴘʀᴇɴᴅᴇɴᴅᴏ <strong>ʀᴇᴀᴄᴛᴊs, ɴᴏᴅᴇᴊs, ᴀᴘɪ ʀᴇsᴛ</strong></p>
             <p>💬 ᴘᴇʀɢᴜɴᴛᴇ-ᴍᴇ sᴏʙʀᴇ <strong>ɴᴏᴅᴇᴊs, ᴇxᴘʀᴇss, ᴛʏᴘᴇsᴄʀɪᴘᴛ, ᴊᴀᴠᴀsᴄʀɪᴘᴛ, ᴍʏsǫʟ, ᴍᴏɴɢᴏᴅʙ</strong></p>
             <p>⚡ Hobby <strong>Ler manga</strong></p>
-      </div>
       </td>
     </tr>
     <tr>
-      <td colspan="2">
-        <div align="center">
+      <td colspan="2" align="center">
           <img src="https://github-profile-trophy.vercel.app/?username=diogojorge1401&theme=radical" alt="diogojorge1401" />
-        </div>
       </td>
     </tr>
     <tr>
@@ -54,6 +50,7 @@
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="">
     <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="">
 </div>
+
 <h3 align="center">ᴅ͟ᴀ͟ᴛ͟ᴀ͟ʙ͟ᴀ͟s͟ᴇ͟:͟</h3>
 <div align="center">
     <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="">
@@ -64,6 +61,7 @@
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="">
     <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="">
 </div>
+
 <h3 align="center">ᴄ͟ᴏ͟ɴ͟ɴ͟ᴇ͟ᴄ͟ᴛ͟ ͟ᴡ͟ɪ͟ᴛ͟ʜ͟ ͟ᴍ͟ᴇ͟:͟</h3>
 <div align="center">
     <a href="https://www.linkedin.com/in/diogo-jorge-br/" target="blank">
@@ -82,91 +80,102 @@
 
 <div align="center" width="100%">
   <a href="#">
-    <img src="https://github.com/DiogoJorge1401/DiogoJorge1401/blob/output/github-contribution-grid-snake.svg" alt="snake - Diogo Horvatti" />
+    <img src="https://github.com/DiogoJorge1401/DiogoJorge1401/blob/output/github-contribution-grid-snake.svg" alt="snake - DiogoJorge1401" />
   </a>
 </div>
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C247%20hrs%2020%20mins-blue)
 
-**Eu sou diurno 🐤** 
+**Eu sou diurno 🐤**
 
 ```text
-🌞 Manhã      189 commits    ███████░░░░░░░░░░░░░░░░░░   30.58% 
-🌆 Tarde      196 commits    ████████░░░░░░░░░░░░░░░░░   31.72% 
-🌃 Noite      215 commits    ████████░░░░░░░░░░░░░░░░░   34.79% 
+🌞 Manhã      189 commits    ███████░░░░░░░░░░░░░░░░░░   30.58%
+🌆 Tarde      196 commits    ████████░░░░░░░░░░░░░░░░░   31.72%
+🌃 Noite      215 commits    ████████░░░░░░░░░░░░░░░░░   34.79%
 🌙 Madrugada  18 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.91%
 
 ```
-📅 **Sou mais produtivo em Terça-Feira** 
+
+📅 **Sou mais produtivo em Terça-Feira**
 
 ```text
-Segunda-Feira112 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.12% 
-Terça-Feira  136 commits    █████░░░░░░░░░░░░░░░░░░░░   22.01% 
-Quarta-Feira 88 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.24% 
-Quinta-Feira 65 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.52% 
-Sexta-Feira  40 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.47% 
-Sábado       78 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.62% 
+Segunda-Feira112 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.12%
+Terça-Feira  136 commits    █████░░░░░░░░░░░░░░░░░░░░   22.01%
+Quarta-Feira 88 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.24%
+Quinta-Feira 65 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.52%
+Sexta-Feira  40 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.47%
+Sábado       78 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.62%
 Domingo      99 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.02%
 
 ```
 
-
-📊 **Esta semana eu gastei meu tempo em** 
+📊 **Esta semana eu gastei meu tempo em**
 
 ```text
 ⌚︎ Fuso horário: America/Sao_Paulo
 
-💬 Linguagens de programação: 
-TypeScript               15 hrs 24 mins      ████████████████████░░░░░   82.26% 
-CSS                      1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.01% 
-SCSS                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.12% 
-Other                    23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.07% 
+💬 Linguagens de programação:
+TypeScript               15 hrs 24 mins      ████████████████████░░░░░   82.26%
+CSS                      1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.01%
+SCSS                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.12%
+Other                    23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.07%
 Rust                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.82%
 
-🔥 Editores: 
+🔥 Editores:
 VS Code                  18 hrs 44 mins      █████████████████████████   100.0%
 
-🐱‍💻 Projetos: 
-ReactTs                  8 hrs 53 mins       ███████████░░░░░░░░░░░░░░   47.42% 
-testes                   3 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.16% 
-NotesApp                 2 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.06% 
-Yeah                     1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.84% 
+🐱‍💻 Projetos:
+ReactTs                  8 hrs 53 mins       ███████████░░░░░░░░░░░░░░   47.42%
+testes                   3 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.16%
+NotesApp                 2 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.06%
+Yeah                     1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.84%
 MemeGenerator            59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.25%
 
-💻 Sistema operacional: 
+💻 Sistema operacional:
 Linux                    18 hrs 44 mins      █████████████████████████   100.0%
 
 ```
 
-**Eu geralmente programo em TypeScript** 
+**Eu geralmente programo em TypeScript**
 
 ```text
-TypeScript               47 repos            ██████████████░░░░░░░░░░░   57.32% 
-HTML                     13 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.85% 
-JavaScript               7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.54% 
-CSS                      5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.1% 
+TypeScript               47 repos            ██████████████░░░░░░░░░░░   57.32%
+HTML                     13 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.85%
+JavaScript               7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.54%
+CSS                      5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.1%
 Java                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   3.66%
 
 ```
 
+Last Updated on 27/12/2022 00:45:04 UTC
 
-
- Last Updated on 27/12/2022 00:45:04 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
     <h3 align="center">𝕰𝖘𝖈𝖗𝖊𝖛𝖆 𝖆𝖑𝖌𝖔 𝖇𝖔𝖒 𝖓𝖔 𝖒𝖊𝖚 𝖑𝖎𝖛𝖗𝖔 𝖉𝖊 𝖛𝖎𝖘𝖎𝖙𝖆𝖘:</h3>
     <div align="center">
-        <a href="https://github.com/DiogoJorge1401/DiogoJorge1401/issues" align="center">
-        <img width="25%" src="https://image.myanimelist.net/ui/_lU-YARn-6Q_z2uz6LpJrAyKtud7fw3I88TlfFXsjTXoYJP30uaiHW6rJ9WxkG5i15-VJ7MY5MmNnraztMFMFA" alt="Guest book">
+        <a href="https://github.com/DiogoJorge1401/DiogoJorge1401/issues">
+          <img width="25%" src="https://image.myanimelist.net/ui/_lU-YARn-6Q_z2uz6LpJrAyKtud7fw3I88TlfFXsjTXoYJP30uaiHW6rJ9WxkG5i15-VJ7MY5MmNnraztMFMFA" alt="Guest book">
         </a>
      </div>
   </div>
+
+<div align="center">
+  <h3>Profile Views</h3>
   
+  <span>counting of visitors to this page in this section started from Dez 27, 2022</span>
+
+  ![](https://count.getloli.com/get/@DiogoJorge1401.github.readme?theme=rule34)
+</div>
+</br>
+
 <div align="center">
   <h2>𝓞𝓫𝓻𝓲𝓰𝓪𝓭𝓸 𝓹𝓸𝓻 𝓿𝓮𝓻 𝓶𝓮𝓾 𝓹𝓮𝓻𝓯𝓲𝓵 <3<h2>
-    <hr />
+
+  <hr />
+
  <img
    width="100%"
    border="0"
