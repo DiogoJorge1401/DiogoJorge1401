@@ -165,9 +165,9 @@ Java                     3 repos             █░░░░░░░░░░�
 <div align="center">
   <h3>Profile Views</h3>
   
-  <span>counting of visitors to this page in this section started from Dez 27, 2022</span>
+  <span>counting of visitors to this page in this section started from Jan 29, 2023</span>
 
-  ![](https://count.getloli.com/get/@DiogoJorge1401.github.readme?theme=rule34)
+  ![](https://count.nekooftheabyss.moe/get/DiogoJorge1401/img?theme=rule34)
 </div>
 </br>
 
