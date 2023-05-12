@@ -163,9 +163,9 @@ C                        2 repos             ░░░░░░░░░░░�
 <div align="center">
   <h3>Profile Views</h3>
   
-  <span>counting of visitors to this page in this section started from Jan 29, 2023</span>
+  <span>counting of visitors to this page in this section started from May 12, 2023</span>
 
-  ![](https://count.nekooftheabyss.moe/get/DiogoJorge1401/img?theme=rule34)
+  ![](https://moe-counter.glitch.me/get/@suegoid?theme=rule34)
 </div>
 </br>
 
