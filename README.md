@@ -85,6 +85,8 @@
 </div>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C490%20hrs%2048%20mins-blue)
+
 **Eu geralmente programo em TypeScript** 
 
 ```text
@@ -98,7 +100,7 @@ SCSS                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/12/2023 00:48:47 UTC
+ Last Updated on 04/12/2023 00:45:00 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
