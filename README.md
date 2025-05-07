@@ -1,4 +1,4 @@
-<h2 align="center">ᴏɪ, ᴍᴇ ᴄʜᴀᴍᴏ ᴅɪᴏɢᴏ, ᴇsᴛᴜᴅᴏ ᴅᴇsᴇɴᴠᴏʟᴠɪᴍᴇɴᴛᴏ ᴡᴇʙ, ᴀᴘᴀɪxᴏɴᴀᴅᴏ ᴘᴏʀ ɴᴏᴅᴇᴊs ᴇ ʀᴇᴀᴄᴛᴊs. ʙᴜsᴄᴏ ғʀᴇᴇʟᴀs.</h2>
+<h2 align="center">ᴏɪ, ᴍᴇ ᴄʜᴀᴍᴏ ᴅɪᴏɢᴏ, ᴇsᴛᴜᴅᴏ ᴅᴇsᴇɴᴠᴏʟᴠɪᴍᴇɴᴛᴏ ᴡᴇʙ, ᴀᴘᴀɪxᴏɴᴀᴅᴏ ᴘᴏʀ ɴᴏᴅᴇᴊs ᴇ ʀᴇᴀᴄᴛᴊs. ʙᴜsᴄᴏ ɴᴏᴠᴀs ᴏᴘᴏʀᴛᴜɴɪᴅᴀᴅᴇs.</h2>
 
   <table width="100%" border="0">
     <tr>
@@ -10,7 +10,7 @@
     </tr>
     <tr>
       <td colspan="2" align="center">
-          <img src="https://github-profile-trophy.vercel.app/?username=diogojorge1401&theme=radical" alt="diogojorge1401" />
+          <img src="https://github-profile-trophy.vercel.app/?username=DiogoJorge1401&theme=radical" alt="diogojorge1401" />
       </td>
     </tr>
     <tr>
@@ -80,7 +80,6 @@
 
 <div align="center" width="100%">
   <a href="#">
-    <img src="https://github.com/DiogoJorge1401/DiogoJorge1401/blob/output/github-contribution-grid-snake.svg" alt="snake - DiogoJorge1401" />
   </a>
 </div>
 
