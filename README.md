@@ -14,11 +14,8 @@
       </td>
     </tr>
     <tr>
-        <td>
+        <td colspan="2" align="center">
             <img src="https://github-readme-stats.vercel.app/api?username=DiogoJorge1401&show_icons=true&theme=radical&hide_border=0" />
-        </td>
-        <td>
-            <img src="https://github-readme-streak-stats.herokuapp.com?user=DiogoJorge1401&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
         </td>
     </tr>
     <tr>
