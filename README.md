@@ -84,17 +84,17 @@
 **Eu geralmente programo em TypeScript** 
 
 ```text
-TypeScript               86 repos            ████████████████░░░░░░░░░   63.24 % 
-HTML                     16 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-JavaScript               7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
-Shell                    4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-Go                       4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+TypeScript               87 repos            ████████████████░░░░░░░░░   63.50 % 
+HTML                     16 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+JavaScript               7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+Shell                    4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+Go                       4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
 ```
 
 
 
 
- Last Updated on 02/11/2025 00:16:58 UTC
+ Last Updated on 03/11/2025 00:18:57 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
